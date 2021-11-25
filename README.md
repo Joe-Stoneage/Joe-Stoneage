@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joe-Stoneage
+- 👋 Hi, I’m Joe (from the stoneage)
 - 👀 I’m interested in C#, GFABASIC, BLAZOR WASM
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on <private>
