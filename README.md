@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joe (from the stoneage)
 - 👀 I’m interested in C#, GFABASIC, BLAZOR WASM
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on <private>
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: joefromstoneage@gmail.com
 
 <!---
